@@ -1,0 +1,5 @@
+What is Data Science?
+
+Data science is a relatively new field. It uses scientific methods to extract knowledge and insights from data.
+One can say to be a data science is to be better at statistics than a software engineer 
+and to be better at software engineering than a statistician.
